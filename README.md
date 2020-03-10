@@ -1,0 +1,1 @@
+Program guesses the number the user is thinking of as long as its between 1 and 100
